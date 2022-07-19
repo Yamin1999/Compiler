@@ -1,0 +1,15 @@
+Dim x As Single
+Dim i As Integer
+
+    x = 0
+    For i = 1 To 17
+        x = x + 10/17
+    Next i 
+
+  If x = 10 Then
+        print(x & " = 10")
+
+    Else
+        print(x & " <> 10")
+    
+    End If

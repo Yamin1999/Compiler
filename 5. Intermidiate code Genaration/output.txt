@@ -1,0 +1,8 @@
+inserting b with type 2 at address 0
+inserting a with type 1 at address 1
+halt
+Parsing finished!
+
+
+================STACK MACHINE INSTRUCTIONS================
+  0: start             -1

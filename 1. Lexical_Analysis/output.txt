@@ -1,0 +1,58 @@
+Dim is IDENTIFIER
+x is IDENTIFIER
+As is AS
+Single is SINGLE
+
+Dim is IDENTIFIER
+i is IDENTIFIER
+As is AS
+Integer is INT
+
+
+x is IDENTIFIER
+= is ASSIGN
+0 is NUMBER
+
+For is FOR LOOP
+i is IDENTIFIER
+= is ASSIGN
+1 is NUMBER
+To is IDENTIFIER
+17 is NUMBER
+
+x is IDENTIFIER
+= is ASSIGN
+x is IDENTIFIER
++ is ADD
+10 is NUMBER
+/ is DIV
+17 is NUMBER
+
+Next is NEXT
+i is IDENTIFIER
+
+
+If is IF STATEMENT
+x is IDENTIFIER
+= is ASSIGN
+10 is NUMBER
+Then is THEN
+
+print is IDENTIFIER
+( is LPAREN
+x is IDENTIFIER
+& is AND
+" = 10" is STRING
+) is RPAREN
+
+Else is ELSE STATEMENT
+
+print is IDENTIFIER
+( is LPAREN
+x is IDENTIFIER
+& is AND
+" <> 10" is STRING
+) is RPAREN
+
+End If is END OF IF STATEMENT
+
